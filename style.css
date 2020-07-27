@@ -117,7 +117,7 @@
   width: 100%;
 }
 .price-card__options-list__contain:nth-child(odd) {
-  background-color: #2a3438;
+  background-color: #2A3438;
 }
 .price-card__options-list__contain-checkmark {
   width: 15px;
