@@ -48,19 +48,17 @@
                       transform: translate(276px);
                       overflow: hidden;
                       &__stripe {
-                          display: flex;
-                          justify-content: center;
-                          align-items: center;
-                          position: absolute;
-                          width: 147px;
-                          height: 25px;
-                          background: #DC3F45;
-                          font-weight: 700;
-                          font-size: 14px;
-                          line-height: 18px;
-                          color: #FFFFFF;
-                          border: none;
-                          transform: translate(-10px, 28px) rotate(45deg);
+                        position: absolute;
+                        background-color: #DC3F45;
+                        transform: rotate(45deg);
+                        height: 25px;
+                        width: 147px;
+                        font-weight: 700;
+                        font-size: 14px;
+                        line-height: 25px;
+                        text-align: center;
+                        top: 30px;
+                        right: -30px;
                       }
                   }
               }
