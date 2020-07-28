@@ -14,7 +14,7 @@
   width: 380px;
   height: 770px;
   background-color: #334247;
-  margin: 18px;
+  margin: 8px;
   box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.087466);
 }
 .price-card:nth-child(1) .price-card__price, .price-card:nth-child(1) .price-card__order-btn {
